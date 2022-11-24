@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.item img{
+    width: 200px;
+}
+
+.image{
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    color: white;
+}
+
+.item{
+    border: 1px solid black;
+    height: 275px;
+    background-color:lightgreen;
+    border:none;
+}
+textarea{
+    width: 1000px;
+    height: 150px;
+    border-radius: 10px;
+    padding:20px;
+    font-size: 20px;
+    background-color:lightcyan;
+    font-weight:bold;
+    
+}
+.ta{
+    margin-left:150px;;
+    margin-top: 30px;
+}
+.outputta{
+    margin-left:150px;;
+    margin-top: 30px;
+}
+.button{
+    text-align: center;
+    align-items: center;
+    
+}
+.btn {
+    
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    outline: none;
+    
+    font-weight: 700;
+    border: none;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    background-color: #333;
+    color: yellow;
+}
+.btn:hover{
+    transform:scale(1.1);
+    
+}
+
+.h2text{
+    /* border: 1px solid; */
+
+    border-radius:2px
+}
+
+.foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+    min-height: 20vh;
+    text-align: center;
+    border: 1px solid blACK;
+    background-color: lightgreen;
+    border: none;
+}
+
+.list{
+    padding-top:20px ;
+    display: flex;
+    gap: 46px;
+    /* text-decoration: none; */
+    list-style: none;
+    font-weight: bold;
+    
+}
+.list li a{
+    text-decoration:none;
+    color:black;
+}
+.list li:hover {
+    font-weight: bold;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
