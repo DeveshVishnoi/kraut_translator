@@ -1,5 +1,5 @@
 # kraut_translator
-https://statuesque-kashata-1f6aed.netlify.app/
+https://cheerful-chebakia-064832.netlify.app/
 
 
 ## WORKING
